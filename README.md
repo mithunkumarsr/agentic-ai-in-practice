@@ -16,7 +16,7 @@ This repository is designed to be a practical companion to the book, allowing yo
 
 To run the Python projects locally, please follow the setup instructions in **Appendix A: Setting Up Your Development Environment**. The basic steps are:
 
-1.  Clone this repository: `git clone https://github.com/your-username/agentic-ai-in-practice.git`
+1.  Clone this repository: `git clone https://github.com/mithunkumarsr/agentic-ai-in-practice.git`
 2.  Navigate to a project directory: `cd agentic-ai-in-practice/projects/ch07-multi-agent-systems`
 3.  Create and activate a virtual environment.
 4.  Install dependencies: `pip install -r requirements.txt`

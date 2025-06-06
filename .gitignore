@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets - VERY IMPORTANT
+.env
+*.env
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Test reports
+.pytest_cache/
+.coverage
+htmlcov/
